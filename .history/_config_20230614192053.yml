@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+
+colors:
+    gradient_left: "#81EA4D"
+    gradient_right: "#439522"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
+
+title: PrimaDNN':A Characteristics-aware DNN Customization for Singing Technique Detection
+description: Yuya Yamamoto, Juhan Nam, and Hiroko Terasawa, Accepted to EUSIPCO 2023.

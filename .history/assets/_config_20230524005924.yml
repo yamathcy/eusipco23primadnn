@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+
+colors:
+    gradient_left: "#e0c3fc"
+    gradient_right: "#8ec5fc"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
+
+title: 歌声識別タスクのための<br>事前学習済み自己教師ありフロントエンドの調査
+description: 山本雄也
