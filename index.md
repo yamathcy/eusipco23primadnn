@@ -16,4 +16,45 @@ We also found that the contribution of each component varies depending on the ty
     <img src="assets/img/overview.png" width="600px">
 </div>
 
+## Singing techniques??
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJ9rUzIMcZQ?si=xRD8sWP2aXf478WY&amp;start=84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div style="text-align: center;">
+    <img src="/assets/img/bohemian.png" width="600px">
+</div>
+Actual vocalists are singing often with expressions. Such expressions are realized by fluctuation of pitch, loudness, timbre, and so on (including not to fluctuate). 
+There are some well-known fluctuation patterns like vibrato, portamentos, falsetto etc. 
+In this work, focusing on nine common singing techniques, we aim to demonstrate automatic detection of singing techniques given sung audio.
+
+## Used techniques 
+![Alt text](techniques.png)
+We used the [COSIAN dataset](https://yamathcy.github.io/ISMIR2022J-POP/) and picked up **nine common techniques**.
+
+#### Category 1: Pitchy
+  + **vibrato**: a periodic oscillation of pitch.
+  + **scooping**: a pitch evolution like upward glissando.
+  + **bend**: a short tremolo or U/inverted U-shaped pitch evolution.
+  + **drop**: a pitch evolution like downward glissando.
+  + **hiccup**: a short hiccupping on attack/release of note.
+
+#### Category 2: Timbral
+  + **falsetto**: sung by falsetto register.
+  + **breathy**: breathy sound.
+  + **rasp**: sung by a creaky voice, with subharmonics.
+  + **vocal fry**: sung by a creaky voice, and pulse register phonation.
+
+### Identification settings
+**Detection**: kinds and region
+![Alt text](image.png)
+
+### Detection examples 
+
+#### Good examples
+Hanamizuki / Yo Hitoto
+![Alt text](image-3.png)
+
+Hotel Pacific / Southern All Stars
+![Alt text](image-4.png)
+
+Papurika / Kenshi Yonezu 
+![Alt text](image-2.png)
