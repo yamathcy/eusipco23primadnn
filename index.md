@@ -20,6 +20,8 @@ We also found that the contribution of each component varies depending on the ty
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJ9rUzIMcZQ?si=xRD8sWP2aXf478WY&amp;start=84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![bohemian.png](bohemian.png)
+**Pink: Portamento, Yellow:Vibrato, Light Blue: Falsetto**
+
 Actual vocalists are singing often with expressions. Such expressions are realized by fluctuation of pitch, loudness, timbre, and so on (including not to fluctuate). 
 There are some well-known fluctuation patterns like vibrato, portamentos, falsetto etc. 
 In this work, focusing on nine common singing techniques, we aim to demonstrate automatic detection of singing techniques given sung audio.
