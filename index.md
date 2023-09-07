@@ -64,10 +64,12 @@ Papurika / Kenshi Yonezu
 Butterfly / Kumi Koda
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JDtHaS5htnY?si=Khjzez-9Tdez9dvE&amp;start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![Alt text](img_1.png)
+
 The PrimaDNN' failed to detect breathy and vocal fry at several points.
 
 Kanpai / Tsuyoshi Nagabuchi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Ch-ilTDBnw?si=-zNrOR7VKo4XUL57&amp;start=86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![img_2.png](img_2.png)
+
 The PrimaDNN' failed to detect rasp and vocal fry at several points and poor localization of vibrato.
 
