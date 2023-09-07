@@ -51,10 +51,25 @@ We used the [COSIAN dataset](https://yamathcy.github.io/ISMIR2022J-POP/) and pic
 
 #### Good examples
 Hanamizuki / Yo Hitoto
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TngUo1gDNOg?si=ZTq1FkmAZKiXH6vv&amp;start=64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![Alt text](image-3.png)
 
 Hotel Pacific / Southern All Stars
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TjmoaDFXCOo?si=hHdXv5wVEfwC_1Zf&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![Alt text](image-4.png)
 
 Papurika / Kenshi Yonezu 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s582L3gujnw?si=Ed-EXvZGBa0zRq6_&amp;start=57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![Alt text](image-2.png)
+
+#### Bad examples
+Butterfly / Kumi Koda
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDtHaS5htnY?si=Khjzez-9Tdez9dvE&amp;start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Alt text](img_1.png)
+The PrimaDNN' failed to detect breathy and vocal fry at several points.
+
+Kanpai / Tsuyoshi Nagabuchi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Ch-ilTDBnw?si=-zNrOR7VKo4XUL57&amp;start=86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![img_2.png](img_2.png)
+The PrimaDNN' failed to detect rasp and vocal fry at several points and poor localization of vibrato.
+
